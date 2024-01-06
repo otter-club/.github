@@ -6,7 +6,7 @@
 * Facebook: [otter.club.game](facebook.com/otter.club.game)
 * GitHub：[otter-club](https://github.com/otter-club)
 * Discord: [discord.gg/YWE6yFK5Bv](https://discord.gg/YWE6yFK5Bv)
-* Twitter: TBA
+* Twitter: [@OtterClub_](https://twitter.com/OtterClub_)
 * QQ群: 831197219
 
 ## 👏 Welcome to Otter Club
@@ -15,5 +15,5 @@
 * Facebook: [otter.club.game](facebook.com/otter.club.game)
 * GitHub：[otter-club](https://github.com/otter-club)
 * Discord: [discord.gg/YWE6yFK5Bv](https://discord.gg/YWE6yFK5Bv)
-* Twitter: TBA
+* Twitter: [@OtterClub_](https://twitter.com/OtterClub_)
 * QQ Group: 831197219
