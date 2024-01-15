@@ -9,7 +9,6 @@
 * Twitter: [@OtterClub_](https://twitter.com/OtterClub_)
 * QQ群: 831197219
 * Steam 创作者页面:
-  - Steam Create Homepage:
   - https://store.steampowered.com/publisher/otter-club
   - https://store.steampowered.com/pub/otter-club
   - https://store.steampowered.com/developer/otter-club
@@ -25,7 +24,6 @@
 * Twitter: [@OtterClub_](https://twitter.com/OtterClub_)
 * QQ Group: 831197219
 * Steam Creator Homepage:
-  - Steam Create Homepage:
   - https://store.steampowered.com/publisher/otter-club
   - https://store.steampowered.com/pub/otter-club
   - https://store.steampowered.com/developer/otter-club
