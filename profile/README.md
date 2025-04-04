@@ -3,7 +3,7 @@
 ## 🦦 獭坞游戏工作室 
 
 * 官网: [otterclub.io](https://otterclub.io/)
-* Facebook: [otter.club.game](facebook.com/otter.club.game)
+* Facebook: [otter.club.game](https://facebook.com/otter.club.game)
 * GitHub：[otter-club](https://github.com/otter-club)
 * Discord: [discord.gg/YWE6yFK5Bv](https://discord.gg/YWE6yFK5Bv)
 * Twitter: [@OtterClub_](https://twitter.com/OtterClub_)
